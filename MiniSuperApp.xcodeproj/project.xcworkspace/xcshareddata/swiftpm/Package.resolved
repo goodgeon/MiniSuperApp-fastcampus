@@ -1,16 +1,15 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "ModernRIBs",
-        "repositoryURL": "https://github.com/DevYeom/ModernRIBs",
-        "state": {
-          "branch": null,
-          "revision": "5e0a67365a1fb18ca06b919dbf53608843ddc284",
-          "version": "1.0.1"
-        }
+  "originHash" : "adbae13c266d5f528744e52883029063503eccff6fd97bccbd814758794aa07e",
+  "pins" : [
+    {
+      "identity" : "modernribs",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DevYeom/ModernRIBs",
+      "state" : {
+        "revision" : "8884514a2b98e98dd381f941054a5cbb275eaaf2",
+        "version" : "1.0.2"
       }
-    ]
-  },
-  "version": 1
+    }
+  ],
+  "version" : 3
 }
